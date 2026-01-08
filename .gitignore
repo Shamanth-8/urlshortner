@@ -1,0 +1,21 @@
+# Node
+node_modules/
+dist/
+build/
+coverage/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+env/
+
+# Env vars
+.env
+.env.local
+
+# IDE
+.idea/
+.vscode/
+.DS_Store

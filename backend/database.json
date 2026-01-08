@@ -1,0 +1,44 @@
+[
+  {
+    "originalUrl": "https://www.google.com",
+    "shortUrl": "http://localhost:3001/mbAuHc",
+    "code": "mbAuHc",
+    "createdAt": "2026-01-05T21:17:23.392Z"
+  },
+  {
+    "originalUrl": "https://chatgpt.com/c/694fa55d-e814-8321-89a6-d600eb2ecd10",
+    "shortUrl": "http://localhost:3001/cm6-EO",
+    "code": "cm6-EO",
+    "createdAt": "2026-01-05T21:25:00.922Z"
+  },
+  {
+    "originalUrl": "https://www.tutorialspoint.com/dall-e/dall-e-architecture.htm",
+    "shortUrl": "http://localhost:3001/TBmgvl",
+    "code": "TBmgvl",
+    "createdAt": "2026-01-05T21:27:44.521Z"
+  },
+  {
+    "originalUrl": "https://www.tutorialspoint.com/dall-e/dall-e-architecture.htm",
+    "shortUrl": "http://localhost:3001/7apHAa",
+    "code": "7apHAa",
+    "createdAt": "2026-01-05T21:31:38.318Z"
+  },
+  {
+    "originalUrl": "https://github.com/karpathy/ng-video-lecture?tab=readme-ov-file",
+    "shortUrl": "http://localhost:3001/n7HU5h",
+    "code": "n7HU5h",
+    "createdAt": "2026-01-05T21:33:48.111Z"
+  },
+  {
+    "originalUrl": "https://leetcode.com/studyplan/top-sql-50/",
+    "shortUrl": "http://localhost:3001/ObljXn",
+    "code": "ObljXn",
+    "createdAt": "2026-01-08T09:21:46.015Z"
+  },
+  {
+    "originalUrl": "https://www.theforage.com/virtual-experience/a77WE3de8qrxWferQ/electronic-arts/software-engineering-awbf/write-a-feature-proposal",
+    "shortUrl": "http://localhost:3001/hzLtCN",
+    "code": "hzLtCN",
+    "createdAt": "2026-01-08T09:23:58.267Z"
+  }
+]
